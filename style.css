@@ -1,0 +1,294 @@
+#paragraph {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.main-container {
+    margin-top: 70px;
+    margin-bottom: 150px;
+    margin-left: 250px;
+    margin-right: 250px;
+    
+}
+
+.dashboard {
+    display: flex;
+    text-align: center;
+    gap: 50px;
+    border: none;
+    padding: 15px, 15px;
+    justify-content: center;
+    height:100px;
+    font-size: 170%
+
+}
+
+#home {
+    border: none;
+    font-size: 70%;
+}
+
+#categories {
+    border: none;
+    font-size: 70%;
+}
+
+#shop {
+    border: none;
+    font-size: 70%;
+}
+
+#about {
+    border: none;
+    font-size: 70%;
+}
+
+#contact {
+    border: none;
+    font-size: 70%;
+}
+.container-two{
+    display: flex;
+    padding-top: 180px;
+    height:70%;
+}
+#container2-1{
+   
+    width: 50%;
+    font-size: 190%;
+    line-height: 1.6;
+    margin-left: 10%;
+}
+
+#container2-2{
+    width: 50%;
+    border-radius: 10%;
+}
+#start{
+    background-color:#A9A9A9;
+    padding: 17px 30px 17px 30px;
+    font-size: 100%;
+    border: none;
+    border-radius: 200px;
+}
+.play-video{
+    display: flex;
+    gap: 20px;
+}
+.video{
+    border: none;
+    font-size: 80%;
+    
+}
+#one{
+
+}
+#two{
+
+}
+#three{
+
+}
+#four{
+
+}
+#five{
+
+}
+.stats{
+    display: flex;
+    gap: 40px;
+}
+#small{
+    font-size: 60%;
+}
+.brands{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    font-size: 170%;
+}
+.bestseller{
+    display: flex;
+    justify-content: flex-end;
+    height: 200px;
+}
+#bestmain{
+    font-size: 170%;
+}
+.itempictures{
+    display: flex;
+    gap: 70px;
+    padding: 20px 100px;
+    justify-content: center;
+    border-radius: 20%;
+}
+#label{
+    font-family: serif;
+    font-size: 150%;
+}
+#prices{
+    display: flex;
+    gap: 300px;
+    font-size: 150%;
+    height: 300px;
+    
+    justify-content: center;
+}
+.heading-two{
+    text-align: center;
+    height: 400px;
+    font-size: 180%;
+}
+.container-three{
+    display: flex;
+    height: 1000px;
+}
+#container3-1{
+    width: 50%;
+    margin-left: 400px;
+    border-radius: 30%;
+}
+#container3-2{
+    width: 50%;
+    font-size: 170%;
+    line-height: 1.6;
+}
+#start2{
+    padding: 40px 60px 40px 60px;
+    font-size: 100%;
+    border: none;
+    border-radius: 300px;
+    border: solid black 2px;
+
+}
+.container-four{
+    display: flex;
+    height: 800px;
+}
+#container4-1{
+    width: 50%;
+    font-size: 170%;
+    line-height: 1.6;
+    margin-left: 400px;
+
+   }
+#container4-2{
+    width: 50%;
+    margin-left: 0px;
+    border-radius: 20%;
+
+}
+#start3{
+    padding: 40px 60px 40px 60px;
+    font-size: 100%;
+    border: none;
+    border-radius: 300px;
+    border: solid black 2px;
+
+}
+.heading-three{
+    text-align: center;
+    height: 600px;
+    font-size: 180%;
+}
+#iconone{
+    background-color: #474747;
+    height: 250px;
+    width: 250px;
+    border:none;
+    border-radius: 20px;
+    
+    }
+#icontwo{
+    background-color: #474747;
+    height: 250px;
+    width: 250px;
+    border: none;
+    border-radius: 20px;
+
+    }
+#iconthree{
+    background-color: #474747;
+    height: 250px;
+    width: 250px;
+    border: none;
+    border-radius: 20px;
+
+
+}
+#iconfour{
+    background-color: #474747;
+    height: 130px;
+    width: 160px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    padding: 70px 50px 50px 80px;
+    
+
+}
+
+.icon{
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    
+}
+#items{
+    display: flex;
+    gap: 190px;
+    font-size: 170%;
+    height: 400px;
+    justify-content: center;
+
+
+}
+.heading-four{
+    text-align: center;
+    height: 600px;
+    font-size: 180%;
+}
+.container-five{
+    display: flex;
+    height: 1100px;
+}
+#container5-1{
+    width: 50%;
+    margin-left: 400px;
+    
+
+}
+#container5-2{
+    width: 50%;
+    margin-left: 0px;
+    font-size: 200%;
+    line-height: 1.6;
+    margin-left: 400px;
+    
+
+}
+.extra-pages{
+    gap: 15%;
+    display: flex;
+    justify-content: center;
+    font-size: 150%;
+}
+ .arrow{
+     display: flex;
+    justify-content: space-between;
+
+}
+#arrow1{
+    width: 60px;
+}
+
+
+
+
+
+
+
+
+
+  
